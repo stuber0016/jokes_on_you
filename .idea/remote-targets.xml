@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="d42a0cfc-b75d-4c6d-9ce8-891af35b6750" />
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="d42a0cfc-b75d-4c6d-9ce8-891af35b6750">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.EoOVdDgUUr&#10;, stderr=}/omnicrane" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/salui/goland/go/pkg" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
